@@ -57,7 +57,7 @@ Analista de Dados com formação técnica em Ciência de Dados, Machine Learning
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+!
 
 ---
 
@@ -83,18 +83,6 @@ Analista de Dados com formação técnica em Ciência de Dados, Machine Learning
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenifercosta9&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercosta9&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Core Skills | Competências Principais
 
 **Data Analysis & Visualization:**
@@ -105,7 +93,7 @@ Analista de Dados com formação técnica em Ciência de Dados, Machine Learning
 
 **Programming & Tools:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- SQL (MySQL, BigQuery, PostgreSQL)
+- SQL (MySQL, BigQuer )
 - Git & Version Control
 - Jupyter Notebooks
 
